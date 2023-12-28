@@ -1,7 +1,7 @@
 # MCAL
 MCAL is a python program that uses the pseudo equivalent widths (PEWs) of high-resolution spectral lines from the HARPS spectrograph to infer temperatures and metallicities of M-dwarf stars.
 
-From the results of MCAL a paper was written and published in Astronomy and Astrophysics magazine entitled *Metallicity of M dwarfs. III. Planet-metallicity and planet-stellar mass correlations of the HARPS GTO M dwarf sample*
+From the results of MCAL a paper was written and published in Astronomy and Astrophysics magazine entitled *Metallicity of M dwarfs. III. Planet-metallicity and planet-stellar mass correlations of the HARPS GTO M dwarf sample*.
 
 url: https://ui.adsabs.harvard.edu/abs/2013A%26A...551A..36N/abstract
 
@@ -15,4 +15,4 @@ url: https://ui.adsabs.harvard.edu/abs/2013A%26A...551A..36N/abstract
 
 ## Code
 
-The code produced for MCAL and for this paper will be described here. All code was written in python 2.7.X. Feel free to upgrade it to 3.X! :)
+The code produced for MCAL will be described here. All code was written in python 2.7.X. Feel free to upgrade it to 3.X! :)
