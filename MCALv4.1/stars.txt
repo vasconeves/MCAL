@@ -1,0 +1,6 @@
+###put the full names of your stars here###
+Gl105B_S1D.fits
+Gl849_S1D.fits
+HD79210_VIS_1D_rv.fits
+HD79211_VIS_1D_rv.fits
+
